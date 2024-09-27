@@ -19,6 +19,8 @@ In OM 7.4, we developed the music for the game "Pokemon Anil," a fan remake of P
 ### Conclusion:
 In summary, we think we achieved our goal, creating an atmosphere of suspense and terror in both the music and the game. As the character progresses through Lavender Town's tower, the sense of uncertainty about what lies ahead is maintained. Additionally, we adhered to the allotted time for both the video and the music, using the recommended tools for its development.
 
+### Link to gameplay
+[Pokémon Adventure with Custom Music Made in Open Music | Unique Soundtrack Gameplay](https://youtu.be/MKYP1dGkON4)
 ### References:
 - OpenMusic
 - YouTube
